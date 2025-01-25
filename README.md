@@ -1,6 +1,4 @@
- PDF To Markdown Converter
-Debug View
-Result View
+
 # Натхин Антон Эдуардович
 
 Мужчина, 27 лет, родился 26 апреля 1997
